@@ -1,0 +1,9 @@
+a{
+    border: 10px solid red ;
+    display:flex;
+    padding: 10px;
+    text-align: center;
+}
+p{
+    font-size: larger;
+}

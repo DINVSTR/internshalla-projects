@@ -1,0 +1,16 @@
+h1 {
+    color: green; 
+    background-color: yellow; 
+    font-size: 24px;
+}
+p {
+    color: red; 
+    background-color: skyblue; 
+    font-size: 14px;
+}
+#abcc {
+    color: rebeccapurple;
+    font-style: italic;
+    font-stretch: expanded;
+    font-size:larger;
+}

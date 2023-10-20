@@ -1,0 +1,16 @@
+#abc {
+    border: 10px red solid;
+
+    background-color: transparent;
+    display: block;
+    text-align: center;
+}
+
+#bca {
+    height: 100px;
+    width: 150px;
+}
+
+div{
+    background-image: url("project/tree-736885_1920.jpg");
+}

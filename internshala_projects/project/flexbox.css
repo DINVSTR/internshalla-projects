@@ -1,0 +1,45 @@
+.box {
+    border: dotted 2px rgb(96, 139, 168);
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+}
+
+.box>div {
+    border: solid 2px rgb(96, 139, 168);
+    border-radius: 5px;
+    width: 100px;
+}
+
+.one {
+    flex-shrink: 0;
+}
+
+.two {
+    flex-shrink: 2;
+}
+
+.three {
+    flex-grow: 2;
+}
+
+.daba{
+    display: flex;
+    background-color: blue;
+}
+.daba>div {
+    flex-direction: row-reverse;
+    border: solid 2px red;
+    font-size: larger;
+    text-shadow: rebeccapurple;
+    width: 100%
+}
+
+.y1 {
+    flex: 2 0 200px;
+}
+
+.y3 {
+    flex: 0 2 200px;
+}
